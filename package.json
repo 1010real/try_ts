@@ -1,0 +1,25 @@
+{
+  "name": "try_ts",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1010real/try_ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1010real/try_ts/issues"
+  },
+  "homepage": "https://github.com/1010real/try_ts#readme",
+  "devDependencies": {
+    "ts-loader": "^4.1.0",
+    "typescript": "^2.7.2",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  }
+}
