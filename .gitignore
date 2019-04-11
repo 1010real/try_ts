@@ -1,4 +1,6 @@
 .idea
-node_modules
 .node-version
+
+node_modules
+dist
 !dist/index.html
